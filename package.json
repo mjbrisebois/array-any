@@ -1,0 +1,24 @@
+{
+  "name": "@whi/array-any",
+  "version": "1.0.0",
+  "description": "Micro-lib for checking if any item in an array evaluates to true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjbrisebois/array-any.git"
+  },
+  "keywords": [
+    "array",
+    "any",
+    "some"
+  ],
+  "author": "Matthew Brisebois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjbrisebois/array-any/issues"
+  },
+  "homepage": "https://github.com/mjbrisebois/array-any#readme"
+}
